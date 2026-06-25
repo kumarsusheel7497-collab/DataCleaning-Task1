@@ -25,5 +25,7 @@ This project focuses on cleaning raw and unstructured data by handling duplicate
 - `cleaned_data.csv` → Final cleaned dataset
 - `README.md` → Project documentation
 
+  [Open In Colab](https://colab.research.google.com/github/kumarsusheel7497-collab/DataCleaning-Task1/blob/main/Task1_Data_Cleaning.ipynb)
+
 ## Outcome
 The dataset was successfully cleaned and prepared for further analysis.
